@@ -1,0 +1,17 @@
+# Mobile Devices Hardware
+
+
+
+## System on a chip (SoC)
+
+
+packs the CPU, Ram, and sometimes even the storage onto a single chip.
+
+
+
+## Baterries and Charging System
+
+
+Las baterias tienen un Live Spawn limitado, estos van a depender de los Charge cycle. Un charge cycle se refiere a una cargada y descargada completa de la batería.
+
+Para saber cuanto le queda de vida a la batería deberías contar el ciclo actual en el que va y cuanto es el máximo que aguanta ese tipo de batería, esto te dará una estimación de cuanta más vida puede tener.
